@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="your_previous_orders_are_listed_below">Your Previous Orders are listed below</string>
+    <string name="no_orders_placed">No order placed</string>
+    <string name="can_t_find_any_restaurant_with_that_name">cant find any restaurant with that name</string>
+    <string name="question1">Question 1</string>
+    <string name="answer1">Answer 1</string>
+    <string name="question2">Question 2</string>
+    <string name="answer2">Answer 2</string>
+    <string name="question3">Question 3</string>
+    <string name="answer3">Answer 3</string>
+    <string name="question4">Question 4</string>
+    <string name="answer4">Answer 4</string>
+    <string name="ordering_from">Odering from</string>
+    <string name="place_order">Place order</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below</string>
+    <string name="proceed_to_cart_btn">Proceed to cart button</string>
+    <string name="add_to_cart_btn">Add to cart</string>
+    <string name="ip_address">13.235.250.119</string>
+    <string name="token">cd759223cef0dd</string>
+</resources>
