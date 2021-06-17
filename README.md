@@ -1,4 +1,3 @@
 # foodyapp
 Food ordering app
-abhishek saini 
-abhisheksaini1157
+It has some basic functaionality that how a food ordering app work
